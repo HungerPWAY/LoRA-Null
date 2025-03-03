@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python merge_adapter_for_Null.py --model_id save_LoRA_Null_adapter_llama2_PT_128_math_Null_v1_trained/ft --save_path save_LoRA_Null_adapter_llama2_PT_128_math_Null_v1_merged
