@@ -31,7 +31,7 @@ CUDA_VISIBLE_DEVICES=0 python build_corda.py \
 **Arguments**:
 
 - `--model_id` is the pre-trained model for decomposition.
-- `--cov_aware` adopts our context-oriented decomposition and collects covariance matrices.
+- `--singular_aware` adopts our context-oriented decomposition and collects covariance matrices.
 - `--r` is the low rank of LoRA, e.g. 128.
 - `--use_cache` adopts the dataloader and covariance matrices saved in `Adapter/cache`, to avoid calculating the covariance matrices again.
 - `--calib_dataset` specifies the dataset to sample data to obtain covariance matrices. We use QA datasets `"nqopen"`.
