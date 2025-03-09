@@ -78,5 +78,7 @@ sh tools/inference_Math.sh {path_to_merged_model}
 
 **Inference on Code and Instruction Following**:
 
-Evaluation on HumanEval and MBPP is based on [bigcode-evaluation-harness](https://github.com/bigcode-project/bigcode-evaluation-harness). Evaluation on MTBench is based on [FastChat](https://github.com/lm-sys/FastChat). We use their default settings for evaluation. 
+Evaluation on HumanEval and MBPP is based on [bigcode-evaluation-harness](https://github.com/bigcode-project/bigcode-evaluation-harness). Evaluation on MTBench is based on [FastChat](https://github.com/lm-sys/FastChat). We use their default settings for evaluation.
 
+# Acknowledgement
+Our codes are modified from https://github.com/iboing/CorDA
