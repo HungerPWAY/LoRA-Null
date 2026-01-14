@@ -50,7 +50,7 @@ After training, LoRA adapter can be merged with the base model by runing:
 sh step3.sh
 
 
-## Step 4: Inference on world knowledge**:
+## Step 4: Inference on world knowledge:
 
 Inference on world knowledge benchmarks is based on [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness). For example, we evaluate by:
 sh step4.sh
