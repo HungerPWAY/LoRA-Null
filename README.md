@@ -1,4 +1,4 @@
-Put the Space of LoRA Initialization to the Extreme to Preserve Pre-trained Knowledge
+Put the Space of LoRA Initialization to the Extreme to Preserve Pre-trained Knowledge (AAAI 2026)
 
 ## Getting Start
 
